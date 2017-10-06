@@ -14,3 +14,5 @@ node app.js
 ## Try
 Install https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator and give it a try.
 
+### Sample conversation flow illustration
+![Alt text](resources/flow-chart.png "Sketch")
