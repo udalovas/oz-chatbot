@@ -1,0 +1,19 @@
+{
+  "name": "oz-bot",
+  "version": "1.0.0",
+  "description": "A friendly chat-bot built on the top of bot framework provided by MS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "udalovas",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.10.2",
+    "restify": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/udalovas/oz-chatbot.git"
+  }
+}
